@@ -1,8 +1,8 @@
 public class hwif {
     public static void main(String[] args) {
-        int t = 13676;
-        int x;
-        x = t / 20;
-        System.out.println(x);
+        int ticket = 13676;
+        int bonus;
+        bonus = ticket / 20;
+        System.out.println(bonus);
     }
 }
